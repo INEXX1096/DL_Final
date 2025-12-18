@@ -15,7 +15,7 @@ so that the final structure looks like:
 /content/drive/MyDrive/VLM_Project/
 ├── attack_dataset/
 ├── attack_dataset_diffusion/
-├── metadata/
+├── coco/
 └── ...
 
 Google Drive download link:
