@@ -1,2 +1,4 @@
 There are too many images in this folder so please use the link below to download the folder
 https://drive.google.com/drive/folders/1pjagUrEKweA9xn1RzT3idxUvOYN3Z7Gj?usp=drive_link
+
+Include the files into the VLM_Project folder otherwise the code cannot find the files 
