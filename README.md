@@ -1,7 +1,7 @@
 # Deep Learning Final Project  
 ## Multimodal Prompt Injection Attacks and Defenses in Vision-Language Models
 
-**Course:** NYU MSCS – Deep Learning (Final Project)  
+**Course:** NYU MSECE – Deep Learning (Final Project)  
 
 **Authors:**  
 - Lin Chen  
