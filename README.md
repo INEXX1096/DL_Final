@@ -1,5 +1,5 @@
 # Deep Learning Final Project  
-## Multimodal Prompt Injection Attacks and Defenses in Vision-Language Models
+
 
 **Course:** NYU MSECE – Deep Learning (Final Project)  
 
@@ -14,7 +14,6 @@ Department of Computer Science, New York University
 **Contact:**  
 `{lc5806, cz3292, zh3197}@nyu.edu`
 
----
 
 ## Overview
 
