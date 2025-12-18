@@ -1,15 +1,22 @@
-Dataset and Files
+## Dataset & Google Drive Setup
 
-Due to the large number of images, the full dataset is not included in this repository.
+Due to the large size of the image dataset, all images are hosted on Google Drive.
 
-Please download the image folder from the following Google Drive link:
+This project was developed and tested in **Google Colab**, where the dataset is accessed via:
 
-🔗 https://drive.google.com/drive/folders/1pjagUrEKweA9xn1RzT3idxUvOYN3Z7Gj?usp=drive_link
+/content/drive/MyDrive/VLM_Project/
 
-After downloading, place the folder into the following directory:
+Please download the dataset from the link below and place the folder under:
 
-VLM_Project/
+/content/drive/MyDrive/
 
+so that the final structure looks like:
 
-⚠️ Important:
-The code assumes this directory structure. If the files are not placed inside the `VLM_Project` folder, the scripts will not be able to locate the images correctly.
+/content/drive/MyDrive/VLM_Project/
+├── attack_dataset/
+├── attack_dataset_diffusion/
+├── metadata/
+└── ...
+
+Google Drive download link:
+https://drive.google.com/drive/folders/1pjagUrEKweA9xn1RzT3idxUvOYN3Z7Gj
