@@ -1,4 +1,4 @@
-## Dataset and Files
+Dataset and Files
 
 Due to the large number of images, the full dataset is not included in this repository.
 
@@ -11,5 +11,5 @@ After downloading, place the folder into the following directory:
 VLM_Project/
 
 
-⚠️ **Important:**  
+⚠️ Important:
 The code assumes this directory structure. If the files are not placed inside the `VLM_Project` folder, the scripts will not be able to locate the images correctly.
