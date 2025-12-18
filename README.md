@@ -1,7 +1,9 @@
-# DL_Final: Multimodal Prompt Injection Attacks & Defenses
+# Deep Learning Final Project
 
-**Deep Learning Final Project – NYU MSCS**
-
+NYU MSCS Deep Learning – Final Project
+Lin Chen, Chenxi Zhang, and Zihao Huang
+Department of Computer Science, New York University
+{lc5806, cz3292, zh3197}@nyu.edu
 ---
 
 ## Overview
