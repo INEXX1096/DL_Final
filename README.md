@@ -11,7 +11,7 @@
 Department of Computer Science, New York University  
 
 **Contact:**  
-`{lc5806, cz3292, zh3197}@nyu.edu`
+`{lc5806,  zh3197}@nyu.edu`
 
 
 ## Overview
