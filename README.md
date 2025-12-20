@@ -5,7 +5,6 @@
 
 **Authors:**  
 - Lin Chen  
-- Chenxi Zhang  
 - Zihao Huang  
 
 **Affiliation:**  
